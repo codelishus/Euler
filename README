@@ -1,1 +1,4 @@
 //This is problem 1 written in C.  Special thanks to philf//
+
+problem 1, I am using for loops to count up to 1000 with the multiples of 3 and 5, then add them all
+together to receive the answer.  This isn't working, more to follow.
